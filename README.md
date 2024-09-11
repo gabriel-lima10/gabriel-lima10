@@ -1,7 +1,7 @@
-## Hi there 👋
+## bem vindo ao meu perfil 🥷
 
-<!--
-**gabriel-lima10/gabriel-lima10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Gabriel Pereira de Lima
+
 
 Here are some ideas to get you started:
 
@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
